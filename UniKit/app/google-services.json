@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962403776181",
+    "project_id": "unikit-67df7",
+    "storage_bucket": "unikit-67df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962403776181:android:1c2d74c52e1c0a16b930fc",
+        "android_client_info": {
+          "package_name": "com.example.unikit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962403776181-fjoctkmhceqmajjrrgfun93pme4i91t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5qwNhU8-ZuNIjQx7p0LSCXQAbXn-ZHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962403776181-fjoctkmhceqmajjrrgfun93pme4i91t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

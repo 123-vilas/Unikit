@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">UniKit</string>
+    <string name="scientific_calculator">Scientific calculator</string>
+    <string name="days_ncounter">Days\nCounter</string>
+    <string name="scientific_ncalculator">Scientific\nCalculator</string>
+    <string name="converter">Converter</string>
+    <string name="translator">Translator</string>
+    <string name="notes">Notes</string>
+    <string name="text">text</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Languages">
+        <item>Kannada</item>
+        <item>Hindi</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+    </string-array>
+
+    <string name="firstvalue">0.0</string>
+    <string name="lastvalue">0.0</string>
+    <string name="selecteditem">Selected item:</string>
+    <string name="result_displayed_here">Result Displayed Here!</string>
+    <string name="convert">CONVERT</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="Convert">convert</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="to">To</string>
+    <string name="calculate">calculate</string>
+    <string name="result">Result</string>
+    <string name="_0_years_n_n0_months_n_n0_days">0 Years\n\n0 Months\n\n0 Days</string>
+    <string name="todo">TODO</string>
+    <string name="translated_language">Translated language</string>
+    <string name="translate_language">Translate language</string>
+    <string name="unit_nconverter">Unit\nConverter</string>
+    <string name="log">log</string>
+    <string name="Notes">Notes</string>
+    <string name="Scientific_calculator">scientific_ncalculator</string>
+    <string name="Translator">translator</string>
+    <string name="Unit_converter">unit_nconverter</string>
+    <string name="Days_counter">days_ncounter</string>
+    <string name="Add_note">Add note</string>
+    <string name="Select_unit">Select Unit</string>
+    <string name="translated_text_hint" />
+    <string name="download_model" />
+    <string name="delete_model" />
+    <string name="source_text_hint" />
+    <string name="downloaded_models_label" />
+    <string name="translate_progress" />
+    <string name="unknown_error" />
+    <string name="converts">convert</string>
+    <string name="enter_the_speech">enter the speech</string>
+    <string-array name="dropdown1">
+        <item>centimeters</item>
+        <item>meters</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+</resources>
